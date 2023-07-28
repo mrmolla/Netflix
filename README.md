@@ -9,3 +9,4 @@ Html/css Javascript
 
 ![Screenshot 2023-07-27 211249](https://github.com/mrmolla/Netflix/assets/115748318/a8ce74c5-275d-42c0-9ce9-d8d0108ccf7b)
 
+![Screenshot 2023-07-27 211327](https://github.com/mrmolla/Netflix/assets/115748318/2e46e79e-696b-43f8-a279-8f1d4987f1d3)
